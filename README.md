@@ -1,13 +1,18 @@
 # boston_house_prices_prediction
 
+Full project: https://house-price-prediction-lr.herokuapp.com/
+
 ### Software and Tools Requirements
 
 1. [Github Account](https://github.com)
 2. [Heroku Account](https://heroku.com) 
 3. [VSCode IDE](https://code.visualstudio.com/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+5. [Docker](https://docker.com)
 
-Create a new environment
+
+### Steps
+1. Create a new environment
 
 ```
 conda create -p venv python==3.7 -y
@@ -15,3 +20,11 @@ conda create -p venv python==3.7 -y
 conda activate venv/
 
 ```
+
+2. Do the basic EDA and Preprocessing and build the Linear Regression model
+3. Save the model and create a Flask app
+4. Upload to github repo and create a PROC file to deploy the model in Heroku
+5. Build the CI/CD pipeline and configure the Docker file
+6. Finally our application is running in the Docker container
+
+
