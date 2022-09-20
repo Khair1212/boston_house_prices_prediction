@@ -9,6 +9,7 @@ Full project: https://house-price-prediction-lr.herokuapp.com/
 3. [VSCode IDE](https://code.visualstudio.com/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 5. [Docker](https://docker.com)
+6. [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 
 
 ### Steps
@@ -28,3 +29,6 @@ conda activate venv/
 6. Finally our application is running in the Docker container
 
 
+### Interface and Workflow
+
+![image](https://user-images.githubusercontent.com/41924102/191347348-e7e0d44a-d6b4-4750-97fb-61db1cc57e05.png)
