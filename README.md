@@ -1,6 +1,8 @@
-# boston_house_prices_prediction
+# House Price Prediction
 
-Full project: https://house-price-prediction-lr.herokuapp.com/
+Dataset: [Boston House Price Data](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices)
+
+Project Live Demo: https://house-price-prediction-lr.herokuapp.com/
 
 ### Software and Tools Requirements
 
